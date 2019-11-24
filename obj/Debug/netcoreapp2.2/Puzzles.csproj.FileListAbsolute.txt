@@ -1,0 +1,11 @@
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.deps.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.runtimeconfig.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.pdb
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.pdb
